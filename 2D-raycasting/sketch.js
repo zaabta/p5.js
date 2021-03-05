@@ -3,7 +3,8 @@ let particle;
 let xOFF, yOFF;
 
 function setup() {
-  cnv = createCanvas(800, 800);
+ 
+  createCanvas(windowWidth, windowHeight);
   walls = [];
 
   for(var i = 0; i < 5; i++){
