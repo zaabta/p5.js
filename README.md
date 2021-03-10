@@ -5,4 +5,4 @@
  <a href="https://zaabta.github.io/p5.js/Fractal Trees Recursive With slider of changing the angle of rotate branch/">Fractal Trees</a></br>
 <a href="https://zaabta.github.io/p5.js/snake/">Snake</a></br>
 <a href="https://zaabta.github.io/p5.js/The Lorenz Attractor/">The Lorenz Attractor</a></br>
- 
+<a href="https://zaabta.github.io/p5.js/Linear Regression/">Linear Regression</a></br>
