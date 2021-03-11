@@ -7,3 +7,4 @@
 <a href="https://zaabta.github.io/p5.js/The Lorenz Attractor/">The Lorenz Attractor</a></br>
 <a href="https://zaabta.github.io/p5.js/Linear Regression/">Linear Regression</a></br>
 <a href="https://zaabta.github.io/p5.js/Traveling Salesperson/">Traveling Salesperson</a></br>
+<a href="https://zaabta.github.io/p5.js/p5.js/Maze-generation-algorithm-main/">Maze-generation-algorithm</a></br>
