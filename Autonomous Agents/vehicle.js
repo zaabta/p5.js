@@ -1,8 +1,8 @@
 class Vehicle{
   constructor(x, y){
-    this.pos = createVector(0, 0);
+    this.pos = createVector(x, y);
     this.vel = createVector(0, -2);
-    this.acc = createVector(x, y);
+    this.acc = createVector(0, 0);
     this.size = 6;
     this.maxSpeed = 8;
     this.maxforce = 0.2;
