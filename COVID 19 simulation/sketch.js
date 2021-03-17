@@ -98,7 +98,7 @@ class Orang{
 
 
 //jumlah objek
-var jum=200;
+var jum=10;
 
 //peluang sebuah objek itu bepergian 0 sd 1
 // nilai 1 berarti pasti bepergian, nilai 0 berarti diam
