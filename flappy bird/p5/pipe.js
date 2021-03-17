@@ -24,11 +24,11 @@ class Pipe {
 
     // The top pipe
     image(topPipeSprite, this.x, 0, this.w ,this.top);
-    image(pipeHead, this.x, this.top - pipeHead.height - 5, this.w ,pipeHead.height + 5);
+    image(pipeHead, this.x, this.top - pipeHead.height - 5, this.w ,pipeHead.height + 10);
 
     // The buttom pipe
     image(bottomPipeSprite, this.x, height - this.bottom, this.w ,this.bottom);
-    image(pipeHead, this.x, (height - this.bottom) - pipeHead.height + 10, this.w ,pipeHead.height + 5);
+    image(pipeHead, this.x, (height - this.bottom) - pipeHead.height + 10, this.w ,pipeHead.height + 10);
 
 
   }
