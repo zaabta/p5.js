@@ -49,5 +49,5 @@ function draw() {
   
   fill(255);
   textSize(32);
-  text(sec+":"+min+":"+h, 10, height - 20);
+  text(h+":"+min+":"+sec, 10, height - 20);
 }
