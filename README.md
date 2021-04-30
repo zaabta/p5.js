@@ -11,4 +11,4 @@
 <a href="https://zaabta.github.io/p5.js/L-System Fractal Trees./">L-System Fractal Trees</a></br>
 <a href="https://zaabta.github.io/p5.js/Evolutionary Steering Behaviors/">Evolutionary Steering Behaviors</a></br>
 <a href="https://zaabta.github.io/p5.js/flappy bird/p5/">Flappy bird</a></br>
-<a href="https://zaabta.github.io/p5.js/clock/p5/">Flappy bird</a></br>
+<a href="https://zaabta.github.io/p5.js/clock/p5/">Clock</a></br>
